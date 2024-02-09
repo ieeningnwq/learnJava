@@ -1,6 +1,6 @@
 package com.ieening;
 
-public class ClassTest {
+public class ClassTest extends Object {
     public static void main(String[] args) {
         Point point;
         point = new Point(3, 4);
