@@ -6,44 +6,6 @@ public class ClassTest extends Object {
         point = new Point(3, 4);
         System.out.println("Point:x=" + point.getX() + ",y=" + point.getY());
         System.out.println(point.distance());
+        System.out.println(point.toString());
     }
-}
-
-/**
- * Point
- */
-class Point {
-
-    private int x;
-    private int y;
-
-    Point() {
-        this(0, 0);
-    }
-
-    Point(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-
-    public int getX() {
-        return x;
-    }
-
-    public void setX(int x) {
-        this.x = x;
-    }
-
-    public int getY() {
-        return y;
-    }
-
-    public void setY(int y) {
-        this.y = y;
-    }
-
-    public double distance() {
-        return Math.sqrt(x * x + y * y);
-    }
-
 }
