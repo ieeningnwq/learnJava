@@ -15,6 +15,5 @@ public class TestObject {
         System.out.println(f1.equals(f2));
         System.out.println(Float.floatToIntBits(f1));
         System.out.println(Float.floatToIntBits(f2));
-        Character
     }
 }
