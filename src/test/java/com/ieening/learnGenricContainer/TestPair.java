@@ -5,7 +5,6 @@ import static org.junit.Assert.assertTrue;
 
 import java.util.Objects;
 
-import org.apache.commons.lang3.ArrayUtils;
 import org.junit.Test;
 
 import com.ieening.learnGenricConatiner.DynamicArray;
