@@ -4,10 +4,6 @@ import static org.junit.Assert.assertTrue;
 
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.Date;
-import java.util.TimeZone;
-
-import org.apache.commons.lang3.ArrayUtils;
 import org.junit.Test;
 
 public class TestArrays {
