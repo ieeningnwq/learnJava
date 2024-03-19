@@ -1,0 +1,22 @@
+<HashMap>
+  <lisi>
+    <name>李四</name>
+    <age>17</age>
+    <score>67.5</score>
+  </lisi>
+  <zhaoliu>
+    <name>赵六</name>
+    <age>17</age>
+    <score>67.5</score>
+  </zhaoliu>
+  <zhangsan>
+    <name>张三</name>
+    <age>18</age>
+    <score>80.9</score>
+  </zhangsan>
+  <wangwu>
+    <name>王五</name>
+    <age>17</age>
+    <score>67.5</score>
+  </wangwu>
+</HashMap>

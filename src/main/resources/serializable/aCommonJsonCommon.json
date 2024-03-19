@@ -1,0 +1,13 @@
+{
+  "firstCommon" : {
+    "name" : "common"
+  },
+  "secondCommon" : {
+    "name" : "common"
+  },
+  "firstJsonIdentityCommon" : {
+    "id" : 1,
+    "name" : "JsonIdentityCommon"
+  },
+  "secondJsonIdentityCommon" : 1
+}

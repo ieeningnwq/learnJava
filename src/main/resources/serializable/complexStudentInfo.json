@@ -1,0 +1,14 @@
+{
+  "name" : "张三丰",
+  "age" : 16,
+  "scores" : {
+    "数学" : 83.0,
+    "语文" : 89.0,
+    "英语" : 110.0
+  },
+  "contactInfo" : {
+    "phone" : "18500308990",
+    "address" : "zhangsan@sina.com",
+    "email" : "少林寺"
+  }
+}

@@ -1,0 +1,97 @@
+title, href
+https://item.jd.com/12299018.html, https://item.jd.com/12299018.html
+计算机程序的思维逻辑 (1) - 数据和变量, http://www.cnblogs.com/swiftma/p/5396551.html
+计算机程序的思维逻辑 (2) - 赋值, http://www.cnblogs.com/swiftma/p/5399315.html
+计算机程序的思维逻辑 (3) - 基本运算, http://www.cnblogs.com/swiftma/p/5405417.html
+计算机程序的思维逻辑 (4) - 整数的二进制表示与位运算, http://www.cnblogs.com/swiftma/p/5409424.html
+计算机程序的思维逻辑 (5) - 小数计算为什么会出错？, http://www.cnblogs.com/swiftma/p/5411413.html
+计算机程序的思维逻辑 (6) - 如何从乱码中恢复 (上)？, http://www.cnblogs.com/swiftma/p/5420145.html
+计算机程序的思维逻辑 (7) - 如何从乱码中恢复 (下)？, http://www.cnblogs.com/swiftma/p/5430007.html
+计算机程序的思维逻辑 (8) - char的真正含义, http://www.cnblogs.com/swiftma/p/5434387.html
+计算机程序的思维逻辑 (9) - 条件执行的本质, http://www.cnblogs.com/swiftma/p/5445225.html
+计算机程序的思维逻辑 (10) - 强大的循环, http://www.cnblogs.com/swiftma/p/5460879.html
+计算机程序的思维逻辑 (11) - 初识函数, http://www.cnblogs.com/swiftma/p/5467964.html
+计算机程序的思维逻辑 (12) - 函数调用的基本原理, http://www.cnblogs.com/swiftma/p/5468104.html
+计算机程序的思维逻辑 (13) - 类, http://www.cnblogs.com/swiftma/p/5499640.html
+计算机程序的思维逻辑 (14) - 类的组合, http://www.cnblogs.com/swiftma/p/5506777.html
+计算机程序的思维逻辑 (15) - 初识继承和多态, http://www.cnblogs.com/swiftma/p/5516446.html
+计算机程序的思维逻辑 (16) - 继承的细节, http://www.cnblogs.com/swiftma/p/5525908.html
+计算机程序的思维逻辑 (17) - 继承实现的基本原理, http://www.cnblogs.com/swiftma/p/5537665.html
+计算机程序的思维逻辑 (18) - 为什么说继承是把双刃剑, http://www.cnblogs.com/swiftma/p/5587851.html
+计算机程序的思维逻辑 (19) - 接口的本质, http://www.cnblogs.com/swiftma/p/5588010.html
+计算机程序的思维逻辑 (20) - 为什么要有抽象类？, http://www.cnblogs.com/swiftma/p/5594961.html
+计算机程序的思维逻辑 (21) - 内部类的本质, http://www.cnblogs.com/swiftma/p/5619071.html
+计算机程序的思维逻辑 (22) - 代码的组织机制, http://www.cnblogs.com/swiftma/p/5628762.html
+计算机程序的思维逻辑 (23) - 枚举的本质, http://www.cnblogs.com/swiftma/p/5638292.html
+计算机程序的思维逻辑 (24) - 异常 (上), http://www.cnblogs.com/swiftma/p/5651377.html
+计算机程序的思维逻辑 (25) - 异常 (下), http://www.cnblogs.com/swiftma/p/5658132.html
+计算机程序的思维逻辑 (26) - 剖析包装类 (上), http://www.cnblogs.com/swiftma/p/5668379.html
+计算机程序的思维逻辑 (27) - 剖析包装类 (中), http://www.cnblogs.com/swiftma/p/5677992.html
+计算机程序的思维逻辑 (28) - 剖析包装类 (下), http://www.cnblogs.com/swiftma/p/5686935.html
+计算机程序的思维逻辑 (29) - 剖析String, http://www.cnblogs.com/swiftma/p/5724504.html
+计算机程序的思维逻辑 (30) - 剖析StringBuilder, http://www.cnblogs.com/swiftma/p/5731394.html
+计算机程序的思维逻辑 (31) - 剖析Arrays, http://www.cnblogs.com/swiftma/p/5747942.html
+计算机程序的思维逻辑 (32) - 剖析日期和时间, http://www.cnblogs.com/swiftma/p/5774483.html
+计算机程序的思维逻辑 (33) - Joda-Time, http://www.cnblogs.com/swiftma/p/5794390.html
+计算机程序的思维逻辑 (34) - 随机, http://www.cnblogs.com/swiftma/p/5808954.html
+计算机程序的思维逻辑 (35) - 泛型 (上) - 基本概念和原理, http://www.cnblogs.com/swiftma/p/5847198.html
+计算机程序的思维逻辑 (36) - 泛型 (中) - 解析通配符, http://www.cnblogs.com/swiftma/p/5863455.html
+计算机程序的思维逻辑 (37) - 泛型 (下) - 细节和局限性, http://www.cnblogs.com/swiftma/p/5882988.html
+计算机程序的思维逻辑 (38) - 剖析ArrayList, http://www.cnblogs.com/swiftma/p/5894874.html
+计算机程序的思维逻辑 (39) - 剖析LinkedList, http://www.cnblogs.com/swiftma/p/5914153.html
+计算机程序的思维逻辑 (40) - 剖析HashMap, http://www.cnblogs.com/swiftma/p/5940305.html
+计算机程序的思维逻辑 (41) - 剖析HashSet, http://www.cnblogs.com/swiftma/p/5958979.html
+计算机程序的思维逻辑 (42) - 排序二叉树, http://www.cnblogs.com/swiftma/p/5968867.html
+计算机程序的思维逻辑 (43) - 剖析TreeMap, http://www.cnblogs.com/swiftma/p/5975943.html
+计算机程序的思维逻辑 (44) - 剖析TreeSet, http://www.cnblogs.com/swiftma/p/5992093.html
+计算机程序的思维逻辑 (45) - 神奇的堆, http://www.cnblogs.com/swiftma/p/6006395.html
+计算机程序的思维逻辑 (46) - 剖析PriorityQueue, http://www.cnblogs.com/swiftma/p/6014636.html
+计算机程序的思维逻辑 (47) - 堆和PriorityQueue的应用, http://www.cnblogs.com/swiftma/p/6024109.html
+计算机程序的思维逻辑 (48) - 剖析ArrayDeque, http://www.cnblogs.com/swiftma/p/6029547.html
+计算机程序的思维逻辑 (49) - 剖析LinkedHashMap, http://www.cnblogs.com/swiftma/p/6039953.html
+计算机程序的思维逻辑 (50) - 剖析EnumMap, http://www.cnblogs.com/swiftma/p/6044672.html
+计算机程序的思维逻辑 (51) - 剖析EnumSet, http://www.cnblogs.com/swiftma/p/6044718.html
+计算机程序的思维逻辑 (52) - 抽象容器类, http://www.cnblogs.com/swiftma/p/6044809.html
+计算机程序的思维逻辑 (53) - 剖析Collections - 算法, http://www.cnblogs.com/swiftma/p/6045008.html
+计算机程序的思维逻辑 (54) - 剖析Collections - 设计模式, http://www.cnblogs.com/swiftma/p/6064308.html
+计算机程序的思维逻辑 (55) - 容器类总结, http://www.cnblogs.com/swiftma/p/6124015.html
+计算机程序的思维逻辑 (56) - 文件概述, http://www.cnblogs.com/swiftma/p/6132357.html
+计算机程序的思维逻辑 (57) - 二进制文件和字节流, http://www.cnblogs.com/swiftma/p/6165599.html
+计算机程序的思维逻辑 (58) - 文本文件和字符流, http://www.cnblogs.com/swiftma/p/6203972.html
+计算机程序的思维逻辑 (59) - 文件和目录操作, http://www.cnblogs.com/swiftma/p/6227033.html
+计算机程序的思维逻辑 (60) - 随机读写文件及其应用 - 实现一个简单的KV数据库, http://www.cnblogs.com/swiftma/p/6227076.html
+计算机程序的思维逻辑 (61) - 内存映射文件及其应用 - 实现一个简单的消息队列, http://www.cnblogs.com/swiftma/p/6227209.html
+计算机程序的思维逻辑 (62) - 神奇的序列化, http://www.cnblogs.com/swiftma/p/6227273.html
+计算机程序的思维逻辑 (63) - 实用序列化: JSON/XML/MessagePack, http://www.cnblogs.com/swiftma/p/6227306.html
+计算机程序的思维逻辑 (64) - 常见文件类型处理: 属性文件/CSV/EXCEL/HTML/压缩文件, http://www.cnblogs.com/swiftma/p/6379834.html
+计算机程序的思维逻辑 (65) - 线程的基本概念, http://www.cnblogs.com/swiftma/p/6395477.html
+计算机程序的思维逻辑 (66) - 理解synchronized, http://www.cnblogs.com/swiftma/p/6399548.html
+计算机程序的思维逻辑 (67) - 线程的基本协作机制 (上), http://www.cnblogs.com/swiftma/p/6421803.html
+计算机程序的思维逻辑 (68) - 线程的基本协作机制 (下), http://www.cnblogs.com/swiftma/p/6431755.html
+计算机程序的思维逻辑 (69) - 线程的中断, http://www.cnblogs.com/swiftma/p/6477189.html
+计算机程序的思维逻辑 (70) - 原子变量和CAS, http://www.cnblogs.com/swiftma/p/6486729.html
+计算机程序的思维逻辑 (71) - 显式锁, http://www.cnblogs.com/swiftma/p/6517198.html
+计算机程序的思维逻辑 (72) - 显式条件, http://www.cnblogs.com/swiftma/p/6528219.html
+计算机程序的思维逻辑 (73) - 并发容器 - 写时拷贝的List和Set, http://www.cnblogs.com/swiftma/p/6546505.html
+计算机程序的思维逻辑 (74) - 并发容器 - ConcurrentHashMap, http://www.cnblogs.com/swiftma/p/6557685.html
+计算机程序的思维逻辑 (75) - 并发容器 - 基于SkipList的Map和Set, http://www.cnblogs.com/swiftma/p/6561895.html
+计算机程序的思维逻辑 (76) - 并发容器 - 各种队列, http://www.cnblogs.com/swiftma/p/6596746.html
+计算机程序的思维逻辑 (77) - 异步任务执行服务, http://www.cnblogs.com/swiftma/p/6597018.html
+计算机程序的思维逻辑 (78) - 线程池, http://www.cnblogs.com/swiftma/p/6691017.html
+计算机程序的思维逻辑 (79) - 方便的CompletionService, http://www.cnblogs.com/swiftma/p/6691235.html
+计算机程序的思维逻辑 (80) - 定时任务的那些坑, http://www.cnblogs.com/swiftma/p/6724894.html
+计算机程序的思维逻辑 (81) - 并发同步协作工具, http://www.cnblogs.com/swiftma/p/6725095.html
+计算机程序的思维逻辑 (82) - 理解ThreadLocal, http://www.cnblogs.com/swiftma/p/6764821.html
+计算机程序的思维逻辑 (83) - 并发总结, http://www.cnblogs.com/swiftma/p/6765099.html
+计算机程序的思维逻辑 (84) - 反射, http://www.cnblogs.com/swiftma/p/6804342.html
+计算机程序的思维逻辑 (85) - 注解, http://www.cnblogs.com/swiftma/p/6838654.html
+计算机程序的思维逻辑 (86) - 动态代理, http://www.cnblogs.com/swiftma/p/6869790.html
+计算机程序的思维逻辑 (87) - 类加载机制, http://www.cnblogs.com/swiftma/p/6901301.html
+计算机程序的思维逻辑 (88) - 正则表达式 (上), http://www.cnblogs.com/swiftma/p/6947316.html
+计算机程序的思维逻辑 (89) - 正则表达式 (中), http://www.cnblogs.com/swiftma/p/6965103.html
+计算机程序的思维逻辑 (90) - 正则表达式 (下), http://www.cnblogs.com/swiftma/p/7062987.html
+计算机程序的思维逻辑 (91) - Lambda表达式, http://www.cnblogs.com/swiftma/p/7123356.html
+计算机程序的思维逻辑 (92) - 函数式数据处理 (上), http://www.cnblogs.com/swiftma/p/7237442.html
+计算机程序的思维逻辑 (93) - 函数式数据处理 (下), http://www.cnblogs.com/swiftma/p/7409468.html
+计算机程序的思维逻辑 (94) - 组合式异步编程, http://www.cnblogs.com/swiftma/p/7424185.html
+计算机程序的思维逻辑 (95) - Java 8的日期和时间API, http://www.cnblogs.com/swiftma/p/7424888.html

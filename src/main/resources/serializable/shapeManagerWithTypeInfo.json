@@ -1,0 +1,9 @@
+{
+  "shapes" : [ {
+    "type" : "circle",
+    "r" : 10
+  }, {
+    "type" : "square",
+    "l" : 12
+  } ]
+}
