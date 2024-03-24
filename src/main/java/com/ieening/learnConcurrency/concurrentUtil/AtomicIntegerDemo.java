@@ -26,5 +26,6 @@ public class AtomicIntegerDemo {
             thread.join();
         }
         System.out.println(counter.get());
+
     }
 }
