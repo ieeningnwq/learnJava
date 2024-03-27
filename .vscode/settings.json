@@ -1,4 +1,7 @@
 {
     "java.configuration.updateBuildConfiguration": "automatic",
     "files.autoSave": "onFocusChange",
+    "java.test.config": {
+        "vmArgs": ["--add-opens","java.base/java.util=ALL-UNNAMED"]
+    }
 }

@@ -1,0 +1,421 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SimpleContainerDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnAnnotation.dependencyInjectContainer.SimpleContainerDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "SimpleFormatterDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnAnnotation.simpleFormatter.SimpleFormatterDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "MethodAnnotations",
+            "request": "launch",
+            "mainClass": "com.ieening.learnAnnotation.MethodAnnotations",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "InheritDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnAnnotation.InheritDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "GenericDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicFunctional.GenericDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ReflectionInspection",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicFunctional.ReflectionInspection",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "SimpleMapperDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicFunctional.SimpleMapperDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--add-opens java.base/java.util=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "Child",
+            "request": "launch",
+            "mainClass": "com.ieening.Child",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ClassTest",
+            "request": "launch",
+            "mainClass": "com.ieening.ClassTest",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.ieening.Main",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Point",
+            "request": "launch",
+            "mainClass": "com.ieening.Point",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "QuadraticEquationWithOneUnknownTest",
+            "request": "launch",
+            "mainClass": "com.ieening.QuadraticEquationWithOneUnknownTest",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "TestStringPlus",
+            "request": "launch",
+            "mainClass": "com.ieening.TestStringPlus",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "TestObject",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCommonApi.TestObject",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ConcurrentHashMapIteratorDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.conCurrentContainer.ConcurrentHashMapIteratorDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "BasicDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentExecutor.BasicDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "SimpleExecutorService",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentExecutor.SimpleExecutorService",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "AccountMgr",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentLock.learnReentrantLock.AccountMgr",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "LockSupportDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentLock.learnReentrantLock.LockSupportDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "WaitThread",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentLock.learnReentrantLock.WaitThread",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "BasicTimer",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentTimer.BasicTimer",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "SchedulerFixedDelay",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentTimer.SchedulerFixedDelay",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "TimerFixedDelay",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentTimer.TimerFixedDelay",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "TimerFixedRate",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentTimer.TimerFixedRate",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "AtomicIntegerDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentUtil.AtomicIntegerDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CyclicBarrierDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentUtil.CyclicBarrierDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "MasterWorkerDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentUtil.MasterWorkerDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "RacerWithCountDownLatch",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentUtil.RacerWithCountDownLatch",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ThreadLocalBasic",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentUtil.ThreadLocalBasic",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ThreadLocalInit",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.concurrentUtil.ThreadLocalInit",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CounterThread",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadBasics.CounterThread",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "HelloRunnable",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadBasics.HelloRunnable",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "HelloThread",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadBasics.HelloThread",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ShareMemoryDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadBasics.ShareMemoryDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "VisibilityDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadBasics.VisibilityDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "InterruptSynchronizedDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadInterrupt.InterruptSynchronizedDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Executor",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadNotifyWait.AsynchronousResult.Executor",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Worker",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadNotifyWait.EndSimultaneously.Worker",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "BlockingQueue",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadNotifyWait.ProducerConsumer.BlockingQueue",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "FireFlag",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadNotifyWait.StartSimultaneously.FireFlag",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "WaitThread(1)",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadNotifyWait.WaitThread",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Tourist",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadNotifyWait.assemblePoint.Tourist",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CounterThread(1)",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadSynchronized.CounterThread",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "DeadLockDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadSynchronized.DeadLockDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "StaticCounter",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadSynchronized.StaticCounter",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "SynchronizedCollectionIterate",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadSynchronized.SynchronizedCollectionIterate",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "SynchronizedCollectionIterateException",
+            "request": "launch",
+            "mainClass": "com.ieening.learnConcurrency.threadSynchronized.SynchronizedCollectionIterateException",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "TestClassField",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicFunctional.TestClassField",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "TestException",
+            "request": "launch",
+            "mainClass": "com.ieening.learnException.TestException",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "DynamicArray",
+            "request": "launch",
+            "mainClass": "com.ieening.learnGenricConatiner.DynamicArray",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "LRUCache",
+            "request": "launch",
+            "mainClass": "com.ieening.learnGenricConatiner.LRUCache",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "PairTwoGenric",
+            "request": "launch",
+            "mainClass": "com.ieening.learnGenricConatiner.PairTwoGenric",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Outer",
+            "request": "launch",
+            "mainClass": "com.ieening.learnInnerClass.Outer",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ArrowLine",
+            "request": "launch",
+            "mainClass": "com.ieening.learninheritshape.ArrowLine",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "com.ieening.learninheritshape.Circle",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Line",
+            "request": "launch",
+            "mainClass": "com.ieening.learninheritshape.Line",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "Point(1)",
+            "request": "launch",
+            "mainClass": "com.ieening.learninheritshape.Point",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ShapeManager",
+            "request": "launch",
+            "mainClass": "com.ieening.learninheritshape.ShapeManager",
+            "projectName": "learnjava"
+        }
+    ]
+}
