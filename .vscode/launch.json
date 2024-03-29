@@ -6,6 +6,44 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CGLibContainerDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicProxy.aop.CGLibContainerDemo",
+            "projectName": "learnjava",
+            "vmArgs": "--add-opens java.base/java.lang=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCGlibDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicProxy.SimpleCGlibDemo",
+            "projectName": "learnjava",
+            "vmArgs": "--add-opens java.base/java.lang=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "GeneralJDKDynamicProxyDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicProxy.GeneralJDKDynamicProxyDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "SimpleJDKDynamicProxyDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicProxy.SimpleJDKDynamicProxyDemo",
+            "projectName": "learnjava",
+            "vmArgs": "-Djdk.proxy.ProxyGenerator.saveGeneratedFiles=true"
+        },
+        {
+            "type": "java",
+            "name": "SimpleStaticProxyDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnDynamicProxy.SimpleStaticProxyDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
             "name": "SimpleContainerDemo",
             "request": "launch",
             "mainClass": "com.ieening.learnAnnotation.dependencyInjectContainer.SimpleContainerDemo",
