@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HotDeployDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnClassLoader.hotDeployment.HotDeployDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "ConfigurableStrategyDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnClassLoader.configurableStrategy.ConfigurableStrategyDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
             "name": "CGLibContainerDemo",
             "request": "launch",
             "mainClass": "com.ieening.learnDynamicProxy.aop.CGLibContainerDemo",
