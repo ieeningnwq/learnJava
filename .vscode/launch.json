@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CompletableFutureMultiStageFlowDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.CompletableFutureMultiStageFlowDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CompletableFutureTwoStageFlowDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.CompletableFutureTwoStageFlowDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CompletableFutureSingleTaskFlowThenComposeDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.CompletableFutureSingleTaskFlowThenComposeDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CompletableFutureSingleTaskFlowThenApplyThenAcceptDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.CompletableFutureSingleTaskFlowThenApplyThenAcceptDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CompletableFutureSingleTaskFlowThenRunDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.CompletableFutureSingleTaskFlowThenRunDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CompletableFutureThreadResultDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.CompletableFutureThreadResultDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "FutureThreadResultDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.FutureThreadResultDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "CompletableFutureDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.CompletableFutureDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
+            "name": "FutureDemo",
+            "request": "launch",
+            "mainClass": "com.ieening.learnCombinationAsynchronous.FutureDemo",
+            "projectName": "learnjava"
+        },
+        {
+            "type": "java",
             "name": "HotDeployDemo",
             "request": "launch",
             "mainClass": "com.ieening.learnClassLoader.hotDeployment.HotDeployDemo",
